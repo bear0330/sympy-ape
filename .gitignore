@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+*.class
+hs_err_pid*.log
